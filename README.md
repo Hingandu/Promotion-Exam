@@ -1,7 +1,7 @@
 ## Exam Information
 
 Exam Title:  Promotion Examination  
-Course Name:  Bachelor of Science in ICT PURE 
+Course Name:   Python
 
 Student Number:  2024075735  
 Academic Purpose:  Promotion exams to Third Year  
